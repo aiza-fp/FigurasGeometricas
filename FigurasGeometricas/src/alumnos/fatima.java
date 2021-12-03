@@ -8,6 +8,6 @@ public class fatima {
 
 	public static void main(String[] args) {
 		
-		System.out.print("fatima azza");
+		System.out.print("fatima");
 
 	}}
