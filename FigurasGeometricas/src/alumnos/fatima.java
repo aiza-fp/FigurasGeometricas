@@ -10,4 +10,4 @@ public class fatima {
 		
 		System.out.print("fatima azza");
 
-	}
+	}}
