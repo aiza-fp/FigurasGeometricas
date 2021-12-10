@@ -8,8 +8,6 @@ public class fatima {
 
 	public static void main(String[] args) {
 		
-		
-		//Comentario añadido en rama funcionalidadFatima 
+		System.out.print("fatima azza");
 
-	}
-}
+	}}
