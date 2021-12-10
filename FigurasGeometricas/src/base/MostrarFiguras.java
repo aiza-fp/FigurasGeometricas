@@ -21,7 +21,7 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
-		
+		//comentario añadido en la rama funcionlaidad Daniel
 	}
 
 }
