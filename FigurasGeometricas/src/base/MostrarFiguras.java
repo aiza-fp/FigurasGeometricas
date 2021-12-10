@@ -9,7 +9,8 @@ public class MostrarFiguras {
 		
 		//comentario añadido en rama funcionalidad gabriel.
 	}
-
+	/* Comentario Javier :)  */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Circulo miCirculo = new Circulo();
