@@ -6,6 +6,8 @@ public class MostrarFiguras {
 
 	public MostrarFiguras() {
 		// TODO Auto-generated constructor stub
+		
+		//comentario aÃ±adido en rama funcionalidad gabriel.
 	}
 
 	public static void main(String[] args) {
@@ -21,8 +23,12 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
-		//Comentario añadido en rama funcionalidadAIMAR
+
+		//Comentario aï¿½adido en rama funcionalidadAIMAR
 		
+
+		// que pasa pampus, funcionalidadAndre owo
+
 	}
 
 }

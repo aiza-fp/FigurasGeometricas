@@ -9,8 +9,8 @@ public class clasegabriel {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("esta la clase de gabriel");
-
+		System.out.println("OLA");
+		int ola=1000000;
 	}
 
 }
