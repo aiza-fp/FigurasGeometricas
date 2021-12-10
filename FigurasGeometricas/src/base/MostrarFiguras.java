@@ -6,8 +6,11 @@ public class MostrarFiguras {
 
 	public MostrarFiguras() {
 		// TODO Auto-generated constructor stub
+		
+		//comentario añadido en rama funcionalidad gabriel.
 	}
-
+	/* Comentario Javier :)  */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Circulo miCirculo = new Circulo();
@@ -22,8 +25,27 @@ public class MostrarFiguras {
 			System.out.println("Son distintos");
 		}
 
+
 		// Comentario a�adido en rama funcionalidadAsier
+
+		/*
+		 * 
+		 * HOLA ASIER, �QUE TAL EST�S? YO BIEN. TE QUEREMOS
+		 * 
+		 * 
+		 * */
+
+		// Comentario a�adido en rama funcionalidadANDER
+
+
+		//Comentario a�adido en rama funcionalidadAIMAR
+	
 		// que pasa pampus, funcionalidadAndre owo
+
+		//Comentario a�adido en rama funcionalidadHODEI
+
+
+
 	}
 
 }
