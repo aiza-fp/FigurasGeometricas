@@ -6,6 +6,8 @@ public class MostrarFiguras {
 
 	public MostrarFiguras() {
 		// TODO Auto-generated constructor stub
+		
+		//comentario añadido en rama funcionalidad gabriel.
 	}
 
 	public static void main(String[] args) {
