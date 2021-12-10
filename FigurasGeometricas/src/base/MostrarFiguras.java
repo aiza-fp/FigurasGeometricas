@@ -21,6 +21,7 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
+		// Comentario añadido en rama funcionalidadAsier
 		
 	}
 
