@@ -7,7 +7,8 @@ public class MostrarFiguras {
 	public MostrarFiguras() {
 		// TODO Auto-generated constructor stub
 	}
-
+	/* Comentario Javier  */
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Circulo miCirculo = new Circulo();
