@@ -7,7 +7,7 @@ public class MostrarFiguras {
 	public MostrarFiguras() {
 		// TODO Auto-generated constructor stub
 	}
-	/* Comentario :)  */
+	/* Comentario Javier :)  */
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
