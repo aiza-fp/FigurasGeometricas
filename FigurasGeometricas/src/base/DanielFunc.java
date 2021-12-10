@@ -1,6 +1,6 @@
-package alumnos;
+package base;
 
-public class Daniel_Ekomo {
+public class DanielFunc {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
