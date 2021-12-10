@@ -23,7 +23,9 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
-		// que pasa pampus, funcionalidadAndre owo
+
+		//Comentario a�adido en rama funcionalidadHODEI
+
 	}
 
 }
