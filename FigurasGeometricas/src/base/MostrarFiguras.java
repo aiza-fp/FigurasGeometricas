@@ -22,9 +22,21 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
-		
-		
+
+		/*
+		 * 
+		 * HOLA ASIER, �QUE TAL EST�S? YO BIEN. TE QUEREMOS
+		 * 
+		 * 
+		 * */
+
 		// Comentario a�adido en rama funcionalidadANDER
+
+
+		//Comentario a�adido en rama funcionalidadAIMAR
+		
+		
+
 
 
 
