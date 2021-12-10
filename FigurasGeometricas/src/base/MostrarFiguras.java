@@ -21,8 +21,9 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
-		// Comentario añadido en rama funcionalidadAsier
-		
+
+		// Comentario aï¿½adido en rama funcionalidadAsier
+		// que pasa pampus, funcionalidadAndre owo
 	}
 
 }
