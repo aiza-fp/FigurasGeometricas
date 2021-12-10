@@ -24,6 +24,14 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
+
+		/*
+		 * 
+		 * HOLA ASIER, �QUE TAL EST�S? YO BIEN. TE QUEREMOS
+		 * 
+		 * 
+		 * */
+
 		// Comentario a�adido en rama funcionalidadANDER
 
 
@@ -33,6 +41,7 @@ public class MostrarFiguras {
 		// que pasa pampus, funcionalidadAndre owo
 
 		//Comentario a�adido en rama funcionalidadHODEI
+
 
 
 	}
