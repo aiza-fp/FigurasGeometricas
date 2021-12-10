@@ -21,7 +21,12 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
-		
+		/*
+		 * 
+		 * HOLA ASIER, ¿QUE TAL ESTÁS? YO BIEN. TE QUEREMOS
+		 * 
+		 * 
+		 * */
 	}
 
 }
