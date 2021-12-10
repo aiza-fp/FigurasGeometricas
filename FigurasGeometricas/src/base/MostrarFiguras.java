@@ -24,6 +24,7 @@ public class MostrarFiguras {
 		}else {
 			System.out.println("Son distintos");
 		}
+		// Comentario a�adido en rama funcionalidadANDER
 
 
 		//Comentario a�adido en rama funcionalidadAIMAR
