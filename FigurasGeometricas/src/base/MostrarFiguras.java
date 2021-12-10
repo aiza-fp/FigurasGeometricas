@@ -22,6 +22,8 @@ public class MostrarFiguras {
 			System.out.println("Son distintos");
 		}
 		
+		// Comentario añadido en rama funcionalidadANDER
+		
 	}
 
 }
