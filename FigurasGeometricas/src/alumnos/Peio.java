@@ -5,15 +5,13 @@ public class Peio {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		//comentario añadido en funcionalidadPeio
 		
-		/*
-		que miras
+				
+				
 		
-		a copiar a otro lado
 		
-		puto
 		
-		*/
 		
 	}
 
