@@ -25,6 +25,9 @@ public class MostrarFiguras {
 			System.out.println("Son distintos");
 		}
 
+
+		// Comentario a�adido en rama funcionalidadAsier
+
 		/*
 		 * 
 		 * HOLA ASIER, �QUE TAL EST�S? YO BIEN. TE QUEREMOS
@@ -36,8 +39,7 @@ public class MostrarFiguras {
 
 
 		//Comentario a�adido en rama funcionalidadAIMAR
-		
-
+	
 		// que pasa pampus, funcionalidadAndre owo
 
 		//Comentario a�adido en rama funcionalidadHODEI
