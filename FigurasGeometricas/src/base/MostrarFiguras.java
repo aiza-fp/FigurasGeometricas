@@ -24,10 +24,14 @@ public class MostrarFiguras {
 			System.out.println("Son distintos");
 		}
 
+
 		//Comentario a�adido en rama funcionalidadAIMAR
 		
 
 		// que pasa pampus, funcionalidadAndre owo
+
+		//Comentario a�adido en rama funcionalidadHODEI
+
 
 	}
 
