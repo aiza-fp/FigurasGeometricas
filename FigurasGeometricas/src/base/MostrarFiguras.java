@@ -26,7 +26,12 @@ public class MostrarFiguras {
 		}
 
 
+		//comentario a�adido en rama funcionalidadIKER
+
+
+
 		// Comentario a�adido en rama funcionalidadAsier
+
 
 		/*
 		 * 
@@ -43,7 +48,6 @@ public class MostrarFiguras {
 		// que pasa pampus, funcionalidadAndre owo
 
 		//Comentario a�adido en rama funcionalidadHODEI
-
 
 
 	}
