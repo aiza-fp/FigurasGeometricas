@@ -25,7 +25,12 @@ public class MostrarFiguras {
 			System.out.println("Son distintos");
 		}
 
+
 		//comentario a�adido en rama funcionalidadIKER
+
+
+
+		// Comentario a�adido en rama funcionalidadAsier
 
 
 		/*
@@ -39,8 +44,7 @@ public class MostrarFiguras {
 
 
 		//Comentario a�adido en rama funcionalidadAIMAR
-		
-
+	
 		// que pasa pampus, funcionalidadAndre owo
 
 		//Comentario a�adido en rama funcionalidadHODEI
